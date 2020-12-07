@@ -1,5 +1,5 @@
 ### Hi I'm Kahina 👋
-<p align="center" >
+<p align="center" background-color="grey" >
  <img width="200px" height=auto src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" alt="animated" />
 </p>
 
