@@ -1,13 +1,13 @@
 ###
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&section=footer&text=Hi,I'm%20Kahina&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&section=footer&text=Bonjour,je%20m'apelle%20Kahina&fontSize=70&animation=fadeIn)
 
 <p align="center">
  <img width="150px" height=auto src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv" alt="animated" />
 </p>
 
 <h1 align="center">Bienvenue</h1>
-<h3 align="center">"Passionnée d'informatique et de nouvelles technologies, j'ai profité de mon temps libre pour découvrir concrètement en quoi consiste le métier de développeur web.J'ai commencé à acquérir des connaissances de base par le biais d'exercices sur internet.Cela a confirmé mon intérêt pour le métier de développeur web et j'ai donc intégré la Wild Code School pour entamer mon projet de reconversion professionnelle. J'ai ainsi pu mener à bien divers projets concrets.</h3>
+<h3 align="center">Passionnée d'informatique et de nouvelles technologies, j'ai profité de mon temps libre pour découvrir concrètement en quoi consiste le métier de développeur web.J'ai commencé à acquérir des connaissances de base par le biais d'exercices sur internet.Cela a confirmé mon intérêt pour le métier de développeur web et j'ai donc intégré la Wild Code School pour entamer mon projet de reconversion professionnelle. J'ai ainsi pu mener à bien divers projets concrets.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kahija&label=Profile%20views&color=0e75b6&style=flat" alt="kahija" /> </p>
 
