@@ -2,6 +2,7 @@
 <p align="center">
  <img src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" alt="animated" />
 </p>
+
 ##
 [![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=kahija&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kahija)
 <!--
