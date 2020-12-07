@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/{kahija}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{kahija}/count.svg)/
 [![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=abserari&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kahija)
 <!--
 **kahija/kahija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
