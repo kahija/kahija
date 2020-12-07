@@ -1,7 +1,7 @@
 ### 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&section=footer&text=Hi,I'm%20Kahina&fontSize=50&animation=fadeIn)
 
-<p align="center" padding-top="30px>
+<p align="center">
  <img width="200px" height=auto src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" alt="animated" />
 </p>
 
