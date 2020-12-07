@@ -1,5 +1,5 @@
 ### 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&section=footer&text=Hi,I'm%20Kahina&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&section=footer&text=Hi,I'm%20Kahina&fontSize=70&animation=fadeIn)
 
 <p align="center">
  <img width="150px" height=auto src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv" alt="animated" />
