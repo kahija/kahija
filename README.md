@@ -1,6 +1,6 @@
 ###
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&section=footer&text=Bonjour,je%20m'apelle%20Kahina&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&section=header&animation=fadeIn)
 
 <p align="center">
  <img width="150px" height=auto src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv" alt="animated" />
