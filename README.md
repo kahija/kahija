@@ -1,5 +1,6 @@
 ### Hi I'm Kahina 👋
-<p align="center" background-color="grey" >
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+<p align="center" background="grey" >
  <img width="200px" height=auto src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" alt="animated" />
 </p>
 
