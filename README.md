@@ -1,5 +1,5 @@
 ### Hi I'm Kahina 👋
-(https://media2.giphy.com/media/xT39CV47COkGPZO3HG/giphy.mp4)
+https://media2.giphy.com/media/xT39CV47COkGPZO3HG/giphy.mp4
 ##
 [![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=kahija&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kahija)
 <!--
