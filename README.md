@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Kahina 👋
 
 [![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=kahija&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kahija)
 <!--
