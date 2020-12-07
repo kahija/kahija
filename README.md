@@ -26,12 +26,9 @@
 <a href="https://linkedin.com/in/kahina-ouarezki-66a33a182" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kahina-ouarezki-66a33a182" height="30" width="40" /></a>
 </p>
 
-##
-[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=kahija&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kahija)
+<!-- ##
+[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=kahija&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kahija) -->
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)
-
-<!--
 **kahija/kahija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -44,4 +41,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)
+
+
