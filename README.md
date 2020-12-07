@@ -1,6 +1,6 @@
 ### Hi I'm Kahina 👋
-<p align="center" width="100px" height="auto">
- <img src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" alt="animated" />
+<p align="center" >
+ <img width="100px" height=auto src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" alt="animated" />
 </p>
 
 ##
