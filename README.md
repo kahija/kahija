@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Bienvenue</h1>
-<h3 align="center">Passionnée d'informatique et de nouvelles technologies, j'ai profité de mon temps libre pour découvrir concrètement en quoi consiste le métier de développeur web.J'ai commencé à acquérir des connaissances de base par le biais d'exercices sur internet.Cela a confirmé mon intérêt pour le métier de développeur web et j'ai donc intégré la Wild Code School pour entamer mon projet de reconversion professionnelle. J'ai ainsi pu mener à bien divers projets concrets.</h3>
+<h3 align="center">Passionnée d'informatique et de nouvelles technologies, j'ai profité de mon temps libre pour découvrir concrètement en quoi consiste le métier de développeur web.</br>J'ai commencé à acquérir des connaissances de base par le biais d'exercices sur internet.Cela a confirmé mon intérêt pour le métier de développeur web et j'ai donc intégré la Wild Code School pour entamer mon projet de reconversion professionnelle. J'ai ainsi pu mener à bien divers projets concrets.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kahija&label=Profile%20views&color=0e75b6&style=flat" alt="kahija" /> </p> -->
 
