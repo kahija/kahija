@@ -4,8 +4,13 @@
  <img width="150px" height=auto src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv" alt="animated" />
 </p>
 
-<h3 align="center">Passionnée d'informatique et de nouvelles technologies, j'ai profité de mon temps libre pour découvrir concrètement en quoi consiste le métier de développeur web.</br>J'ai commencé à acquérir des connaissances de base par le biais d'exercices sur internet.</br>Cela a confirmé mon intérêt pour le métier de développeur web et j'ai donc intégré la Wild Code School pour entamer mon projet de reconversion professionnelle.</br>J'ai ainsi pu mener à bien divers projets concrets.</h3>
+<!-- <h3 align="center">Passionnée d'informatique et de nouvelles technologies, j'ai profité de mon temps libre pour découvrir concrètement en quoi consiste le métier de développeur web.</br>J'ai commencé à acquérir des connaissances de base par le biais d'exercices sur internet.</br>Cela a confirmé mon intérêt pour le métier de développeur web et j'ai donc intégré la Wild Code School pour entamer mon projet de reconversion professionnelle.</br>J'ai ainsi pu mener à bien divers projets concrets.</h3> -->
 
+<h3 align="center">Passionate about computing and new technologies, I took advantage of my free time to discover concretely what the job of web developer consists in.</br>
+I started to acquire basic knowledge through exercises on the internet.</br>
+This confirmed my interest in the web developer job and I joined the Wild Code School to start my professional reconversion project.</br>
+I was thus able to carry out various concrete projects.
+</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kahija&label=Profile%20views&color=0e75b6&style=flat" alt="kahija" /> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/o_okahina" target="blank"><img src="https://img.shields.io/twitter/follow/o_okahina?logo=twitter&style=for-the-badge" alt="o_okahina" /></a> </p> -->
