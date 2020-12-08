@@ -52,18 +52,8 @@ I was thus able to carry out various concrete projects.
  <!-- <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> -->
  <!-- <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>  -->
  </p>
-
-<!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
+ 
+##
 <p align="center">
 <a href="https://github.com/kahija" target="blank">&nbsp;<img align="center" src="https://github-readme-stats-abserari.vercel.app/api?username=kahija&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="kahija" /></a></p>
 
@@ -72,11 +62,6 @@ I was thus able to carry out various concrete projects.
 <a href="https://twitter.com/o_okahina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="o_okahina" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kahina-ouarezki-66a33a182" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kahina-ouarezki-66a33a182" height="30" width="40" /></a>
 </p>
-
-<!-- ##
-[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=kahija&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kahija) -->
-
-<!-- **kahija/kahija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer)
