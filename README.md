@@ -1,5 +1,3 @@
-###
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&animation=fadeIn&text=Bonjour,%20je%20m'apelle%20Kahina&fontSize=50)
 
 <p align="center">
