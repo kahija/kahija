@@ -18,7 +18,7 @@ I was thus able to carry out various concrete projects.
 ##
 <h3 align="left">🚀 Some Tools I Use</h3>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
