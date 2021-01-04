@@ -19,15 +19,15 @@ I was thus able to carry out various concrete projects.
 <h3 align="left">🚀 Some Tools I Use</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-<a href="https://developer.android.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="react" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="40" height="40"/></a>
+<a href="https://developer.android.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="android" width="40" height="40"/></a>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 <!-- <h4>Programming Languages</h4>
