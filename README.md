@@ -54,8 +54,7 @@ I was thus able to carry out various concrete projects.
  </p>
 
 ##
-[<p align="center">
-<a href="https://github.com/kahija" target="blank">&nbsp;<img align="center" src="https://github-readme-stats-abserari.vercel.app/api?username=kahija&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="kahija" /></a></p>](url)
+![Github stats](https://github-readme-stats.vercel.app/api?username=kahija&theme=highcontrast&show_icons=true&count_private=true)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
