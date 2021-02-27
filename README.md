@@ -55,7 +55,8 @@ I was thus able to carry out various concrete projects.
 
 ##
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kahija) https://github-readme-stats.vercel.app/api?username=kahija&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kahija) 
+[![kahija's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahija)](https://github.com/kahija/github-readme-stats)
      
 
 <h3 align="center">Connect with me:</h3>
