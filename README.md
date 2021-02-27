@@ -54,9 +54,9 @@ I was thus able to carry out various concrete projects.
  </p>
 
 ##
-<p align="center>
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kahija)
-</p>         
+      
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
