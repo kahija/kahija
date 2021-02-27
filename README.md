@@ -54,7 +54,7 @@ I was thus able to carry out various concrete projects.
  </p>
 
 ##
-![Github stats](https://github-readme-stats.vercel.app/api?username=kahija&theme=highcontrast&show_icons=true&count_private=true)
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
