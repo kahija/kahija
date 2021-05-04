@@ -6,8 +6,7 @@
 
 <!-- <h3 align="center">Passionnée d'informatique et de nouvelles technologies, j'ai profité de mon temps libre pour découvrir concrètement en quoi consiste le métier de développeur web.</br>J'ai commencé à acquérir des connaissances de base par le biais d'exercices sur internet.</br>Cela a confirmé mon intérêt pour le métier de développeur web et j'ai donc intégré la Wild Code School pour entamer mon projet de reconversion professionnelle.</br>J'ai ainsi pu mener à bien divers projets concrets.</h3> -->
 
-<h3 align="center">Passionate about computing and new technologies, I took advantage of my free time to discover concretely what the job of web developer consists in.</br>
-I started to acquire basic knowledge through exercises on the internet.</br>
+<h3 align="center">I started to acquire basic knowledge through exercises on the internet.</br>
 This confirmed my interest in the web developer job and I joined the Wild Code School to start my professional reconversion project.</br>
 I was thus able to carry out various concrete projects.
 </h3>
