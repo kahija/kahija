@@ -10,7 +10,8 @@
 This confirmed my interest in the web developer job and </br>
 I joined the Wild Code School to start my professional reconversion project.</br>
 I completed a 6 months internship at Station F in Paris.</br>
-I enjoyed a lot the start-up atmosphere, the animations, the professional meetings, the mutual help and the challenge of creating an application using a framework that I didn't know much about.</br>
+I enjoyed a lot the start-up atmosphere, the animations, the professional meetings,</br>
+the mutual help and the challenge of creating an application using a framework that I didn't know much about.</br>
 I was thus able to carry out various concrete projects.</br>
 A developer never stops learning.
 </h3>
