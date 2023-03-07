@@ -33,7 +33,7 @@ A developer never stops learning.
 <a href="https://developer.android.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="android" width="40" height="40"/></a>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" alt="reactnative" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 <!-- <h4>Programming Languages</h4>
