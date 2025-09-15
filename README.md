@@ -30,10 +30,10 @@ A developer never stops learning.
 <a href="https://getbootstrap.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://expressjs.com" target="_blank"><img src="https://img.icons8.com/?size=64&id=2ZOaTclOqD4q&format=png" alt="express" width="40" height="40"/></a>
-<a href="https://developer.android.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="android" width="40" height="40"/></a>
+<a href="https://developer.android.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174836.png" alt="android" width="40" height="40"/></a>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" alt="reactnative" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" alt="mysql" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 <!-- <h4>Programming Languages</h4>
