@@ -5,6 +5,7 @@
 </p>
 
 <h2 align="center">👋 Hi, I’m Kahina Ouarezki</h2>
+
 <h3 align="left">
 Front-End Developer specialized in React with 4 years of experience building <br/> modern, accessible, and high-performance web applications.</h3>
 
