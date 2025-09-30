@@ -6,15 +6,15 @@
 
 <!-- <h3 align="center">Passionnée d'informatique et de nouvelles technologies, j'ai profité de mon temps libre pour découvrir concrètement en quoi consiste le métier de développeur web.</br>J'ai commencé à acquérir des connaissances de base par le biais d'exercices sur internet.</br>Cela a confirmé mon intérêt pour le métier de développeur web et j'ai donc intégré la Wild Code School pour entamer mon projet de reconversion professionnelle.</br>J'ai ainsi pu mener à bien divers projets concrets.</h3> -->
 
-<h3 align="center">I started to acquire basic knowledge through exercises on the internet.</br>
-This confirmed my interest in the web developer job and </br>
-I joined the Wild Code School to start my professional reconversion project.</br>
-I completed a 6 months internship at Station F in Paris.</br>
-I enjoyed a lot the start-up atmosphere, the animations, the professional meetings,</br>
-the mutual help and the challenge of creating an application using a framework</br>
-that I didn't know much about.</br>
-I was thus able to carry out various concrete projects.</br>
-A developer never stops learning.
+<h3 align="center">👋 Hi, I’m Kahina Ouarezki, Front-End Developer specialized in React with 4 years of experience building modern, accessible, and high-performance web applications.
+
+💻 I have worked with React, TypeScript, Symfony, and Django, collaborating closely with product and design teams in Agile environments. My projects include API integrations, UX improvements, and performance optimizations.
+
+🚀 Currently, I am strengthening my skills in React TypeScript and exploring Next.js to broaden my expertise in modern front-end development.
+
+⚡ I believe a developer never stops learning, and I am passionate about writing clean, maintainable code and delivering impactful solutions.
+
+📂 Feel free to check out my repositories showcasing training projects, professional work, and ongoing learning.
 </h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kahija&label=Profile%20views&color=0e75b6&style=flat" alt="kahija" /> </p> -->
