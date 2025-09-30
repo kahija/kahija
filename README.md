@@ -6,17 +6,17 @@
 
 <!-- <h3 align="center">Passionnée d'informatique et de nouvelles technologies, j'ai profité de mon temps libre pour découvrir concrètement en quoi consiste le métier de développeur web.</br>J'ai commencé à acquérir des connaissances de base par le biais d'exercices sur internet.</br>Cela a confirmé mon intérêt pour le métier de développeur web et j'ai donc intégré la Wild Code School pour entamer mon projet de reconversion professionnelle.</br>J'ai ainsi pu mener à bien divers projets concrets.</h3> -->
 
-<h3 align="center">👋 Hi, I’m Kahina Ouarezki</h3>
+<h2 align="center">👋 Hi, I’m Kahina Ouarezki</h3>
 <h3 align="left">
 Front-End Developer specialized in React with 4 years of experience building <br/> modern, accessible, and high-performance web applications.</h3>
 
-<h3 align="left">💻 I have worked with React, TypeScript, Symfony, and Django, collaborating closely <br/> with product and design teams in Agile environments. My projects include API integrations, </br> UX improvements, and performance optimizations.
+<h3 align="left">💻 I have worked with React, TypeScript, Symfony, and Django, collaborating closely <br/> with product and design teams in Agile environments. My projects include API integrations, </br> UX improvements, and performance optimizations.</h3>
 
-🚀 Currently, I am strengthening my skills in React TypeScript and exploring Next.js <br/> to broaden my expertise in modern front-end development.
+<h3 align="left">🚀 Currently, I am strengthening my skills in React TypeScript and exploring Next.js <br/> to broaden my expertise in modern front-end development.</h3>
 
-⚡ I believe a developer never stops learning, and I am passionate about writing clean, <br/> maintainable code and delivering impactful solutions.
+<h3 align="left">⚡ I believe a developer never stops learning, and I am passionate about writing clean, <br/> maintainable code and delivering impactful solutions.</h3>
 
-📂 Feel free to check out my repositories showcasing training projects, professional work, <br/> and ongoing learning.
+<h3 align="left">📂 Feel free to check out my repositories showcasing training projects, professional work, <br/> and ongoing learning.
 </h3>
 
 
