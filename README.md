@@ -7,7 +7,7 @@
 <!-- <h3 align="center">Passionnée d'informatique et de nouvelles technologies, j'ai profité de mon temps libre pour découvrir concrètement en quoi consiste le métier de développeur web.</br>J'ai commencé à acquérir des connaissances de base par le biais d'exercices sur internet.</br>Cela a confirmé mon intérêt pour le métier de développeur web et j'ai donc intégré la Wild Code School pour entamer mon projet de reconversion professionnelle.</br>J'ai ainsi pu mener à bien divers projets concrets.</h3> -->
 
 <h3 align="center">👋 Hi, I’m Kahina Ouarezki</h3>
-<h3 align="center">
+<h3 align="left">
 Front-End Developer specialized in React with 4 years of experience building modern, <br/> accessible, and high-performance web applications.
 
 💻 I have worked with React, TypeScript, Symfony, and Django, <br/> collaborating closely with product and design teams in Agile environments. My projects include API integrations, UX improvements, and performance optimizations.
