@@ -10,7 +10,7 @@
 <h3 align="left">
 Front-End Developer specialized in React with 4 years of experience building <br/> modern, accessible, and high-performance web applications.</h3>
 
-<h3 align="left">💻 I have worked with React, TypeScript, Symfony, and Django, collaborating closely <br/> with product and design teams in Agile environments. My projects include API integrations, UX improvements, <br/> and performance optimizations.
+<h3 align="left">💻 I have worked with React, TypeScript, Symfony, and Django, collaborating closely <br/> with product and design teams in Agile environments. My projects include API integrations, </br> UX improvements, and performance optimizations.
 
 🚀 Currently, I am strengthening my skills in React TypeScript and exploring Next.js <br/> to broaden my expertise in modern front-end development.
 
