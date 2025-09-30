@@ -4,7 +4,7 @@
  <img width="150px" height=auto src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv" alt="animated" />
 </p>
 
-<h2 align="center">👋 Hi, I’m Kahina Ouarezki</h3>
+<h2 align="center">👋 Hi, I’m Kahina Ouarezki</h2>
 <h3 align="left">
 Front-End Developer specialized in React with 4 years of experience building <br/> modern, accessible, and high-performance web applications.</h3>
 
