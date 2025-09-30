@@ -8,15 +8,15 @@
 
 <h3 align="center">👋 Hi, I’m Kahina Ouarezki</h3>
 <h3 align="center">
-Front-End Developer specialized in React with 4 years of experience building modern, accessible, and high-performance web applications.
+Front-End Developer specialized in React with 4 years of experience building modern, <br/> accessible, and high-performance web applications.
 
-💻 I have worked with React, TypeScript, Symfony, and Django, collaborating closely with product and design teams in Agile environments. My projects include API integrations, UX improvements, and performance optimizations.
+💻 I have worked with React, TypeScript, Symfony, and Django, <br/> collaborating closely with product and design teams in Agile environments. My projects include API integrations, UX improvements, and performance optimizations.
 
-🚀 Currently, I am strengthening my skills in React TypeScript and exploring Next.js to broaden my expertise in modern front-end development.
+🚀 Currently, I am strengthening my skills in React TypeScript and exploring Next.js <br/> to broaden my expertise in modern front-end development.
 
-⚡ I believe a developer never stops learning, and I am passionate about writing clean, maintainable code and delivering impactful solutions.
+⚡ I believe a developer never stops learning, and I am passionate about writing clean, <br/> maintainable code and delivering impactful solutions.
 
-📂 Feel free to check out my repositories showcasing training projects, professional work, and ongoing learning.
+📂 Feel free to check out my repositories showcasing training projects, professional work, <br/> and ongoing learning.
 </h3>
 
 
