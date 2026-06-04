@@ -63,8 +63,8 @@ Front-End Developer specialized in React with 4 years of experience building <br
 
 ##
 
-<!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kahija) -->
-[![kahija's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahija&hide=stars,issues)](https://github.com/kahija/github-readme-stats)
+<!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kahija)
+[![kahija's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahija&hide=stars,issues)](https://github.com/kahija/github-readme-stats) --!>
      
 
 <h3 align="center">Connect with me:</h3>
